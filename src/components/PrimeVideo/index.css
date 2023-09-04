@@ -1,6 +1,6 @@
 /* Write your CSS here */
 .container {
-  height: 100vh;
+  min-height: 100vh;
   background-color: black;
 }
 .prime-img {
@@ -9,6 +9,7 @@
 }
 .movies-container {
   padding-left: 50px;
+  max-width: 1000px;
 }
 .movie-h1 {
   color: #ffffff;
